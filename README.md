@@ -1,12 +1,13 @@
 # algo-javascript
-JS Leetcode mary526 , refer to [zcong1993](https://github.com/zcong1993/leetcode-tool)(thanks a lot :P)
+JavaScript Leetcode  
 
+## Project Introduction 
 
-
-## 汇总
-
-[汇总](./toc/all.md)
+- This is [Mary526](https://github.com/Mary526) , just wanna record my answer code continuously.
+- Good luck to me :muscle:
+- This project is built by the guideline of this blog post [leetcode_tool](https://blog.cong.moe/post/2020-11-30-leetcode_tool/)
+- here is my answer [summary](./toc/all.md), your kind reply is welcomed :laughing:
 
 ## License
 
-MIT &copy; Mary526
+MIT &copy; [Mary526](https://github.com/Mary526)
