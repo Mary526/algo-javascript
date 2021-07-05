@@ -17,16 +17,25 @@ var removeDuplicates = function(nums) {
 //     if (nums[i] !== nums[j]) nums[++j] = nums[i];
 //     if (i >= nums.length) return j;
 //   }
-
-    if (nums === null || nums.length === 1) {
-        return nums.length
+    if(nums.length <= 1) return nums.length
+    let i = 1
+    for(j=1;j<nums.length;j++) {
+        if (nums[j-1] !== nums[j]) {
+            nums[i] = nums[j]
+            i++
+        }
     }
+    return i
 
-    for (let j = 1, i = 0; ; j++) {
-        //   console.log('=i, j',i,j,nums.length)
-        if (nums[j] !== nums[i]) nums[++i] = nums[j];
-        if (j >= nums.length) return i;
-    }
+    // if (nums === null || nums.length === 1) {
+    //     return nums.length
+    // }
+    //
+    // for (let j = 1, i = 0; ; j++) {
+    //     //   console.log('=i, j',i,j,nums.length)
+    //     if (nums[j] !== nums[i]) nums[++i] = nums[j];
+    //     if (j >= nums.length) return i;
+    // }
 
     // let j = 0
     // for(i = 0; i < nums.length - 1;i++) {
