@@ -11,6 +11,7 @@
 /**
  * @param {number[]} nums
  * @return {number}
+ * @date 2021/7/5
  */
 var removeDuplicates = function(nums) {
 //     for (let i = 1, j = 0; ; i++) {
