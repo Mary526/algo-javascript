@@ -22,11 +22,11 @@ var strStr = function(haystack, needle) {
     let haystackList = haystack.split("")
     // console.log('needleLen:', needleLen, 'haystackLen:',haystackLen,'haystackList:',haystackList)
     haystackList.forEach((item,index)=>{
-        console.log('item,index', item,index)
+        if (i >= 0) return
+        // console.log('item,index', item,index)
         if (haystackLen-index < needleLen) return
         const str = JSON.parse(JSON.stringify(haystackList)).slice(index,index+needleLen).join("")
         if (str !== needle) return
-        if (i >= 0) return
         i = index
     })
     // console.log('==== i' , i)
