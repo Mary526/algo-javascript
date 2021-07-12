@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 5
+总计: 6
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -12,3 +12,4 @@
 | 27 | 简单 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
 | 35 | 简单 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [solve/solve0035](../solve/solve0035)|
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
+| 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
