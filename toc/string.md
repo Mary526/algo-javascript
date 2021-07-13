@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 7
+总计: 8
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -14,3 +14,4 @@
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
+| 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [solve/solve0171](../solve/solve0171)|

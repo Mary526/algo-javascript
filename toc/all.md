@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 16
+总计: 17
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -23,3 +23,4 @@
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
+| 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [solve/solve0171](../solve/solve0171)|
