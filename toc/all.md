@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 14
+总计: 15
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -21,3 +21,4 @@
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
+| 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
