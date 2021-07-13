@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 6
+总计: 7
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -13,3 +13,4 @@
 | 28 | 简单 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [solve/solve0028](../solve/solve0028)|
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
+| 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
