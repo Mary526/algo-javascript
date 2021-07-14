@@ -3,10 +3,11 @@
 <!--- table -->
 
 
-总计: 3
+总计: 4
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [solve/solve0001](../solve/solve0001)|
 | 13 | 简单 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [solve/solve0013](../solve/solve0013)|
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
+| 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|

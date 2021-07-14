@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 9
+总计: 10
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -16,3 +16,4 @@
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
 | 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [solve/solve0171](../solve/solve0171)|
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
+| 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
