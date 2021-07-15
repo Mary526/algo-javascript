@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 6
+总计: 7
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -13,3 +13,4 @@
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 344 | 简单 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [solve/solve0344](../solve/solve0344)|
+| 345 | 简单 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [solve/solve0345](../solve/solve0345)|
