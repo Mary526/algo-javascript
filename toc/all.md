@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 21
+总计: 22
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -28,3 +28,4 @@
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
 | 344 | 简单 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [solve/solve0344](../solve/solve0344)|
+| 345 | 简单 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [solve/solve0345](../solve/solve0345)|
