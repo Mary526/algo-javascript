@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 13
+总计: 15
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -20,3 +20,5 @@
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
 | 344 | 简单 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [solve/solve0344](../solve/solve0344)|
 | 345 | 简单 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [solve/solve0345](../solve/solve0345)|
+| 383 | 简单 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [solve/solve0383](../solve/solve0383)|
+| 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|

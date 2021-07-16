@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 5
+总计: 7
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -12,3 +12,5 @@
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
+| 383 | 简单 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [solve/solve0383](../solve/solve0383)|
+| 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|
