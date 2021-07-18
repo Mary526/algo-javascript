@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 24
+总计: 29
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -31,3 +31,8 @@
 | 345 | 简单 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [solve/solve0345](../solve/solve0345)|
 | 383 | 简单 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [solve/solve0383](../solve/solve0383)|
 | 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|
+| 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
+| 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
+| 409 | 简单 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [solve/solve0409](../solve/solve0409)|
+| 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
+| 434 | 简单 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [solve/solve0434](../solve/solve0434)|
