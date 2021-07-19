@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 21
+总计: 22
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -28,3 +28,4 @@
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
 | 434 | 简单 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [solve/solve0434](../solve/solve0434)|
 | 482 | 简单 | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/) | [solve/solve0482](../solve/solve0482)|
+| 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|

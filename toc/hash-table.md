@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 9
+总计: 10
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -16,3 +16,4 @@
 | 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 409 | 简单 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [solve/solve0409](../solve/solve0409)|
+| 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
