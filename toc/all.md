@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 32
+总计: 33
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -39,3 +39,4 @@
 | 482 | 简单 | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/) | [solve/solve0482](../solve/solve0482)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 520 | 简单 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [solve/solve0520](../solve/solve0520)|
+| 521 | 简单 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [solve/solve0521](../solve/solve0521)|
