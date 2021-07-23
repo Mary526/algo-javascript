@@ -12,6 +12,7 @@
  * @param {string} s
  * @param {number} k
  * @return {string}
+ * @date 2021/7/23
  */
 var reverseStr = function(s, k) {
 const sList = s.split("")
