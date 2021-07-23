@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 33
+总计: 34
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -40,3 +40,4 @@
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 520 | 简单 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [solve/solve0520](../solve/solve0520)|
 | 521 | 简单 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [solve/solve0521](../solve/solve0521)|
+| 541 | 简单 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [solve/solve0541](../solve/solve0541)|
