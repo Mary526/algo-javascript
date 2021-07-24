@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 34
+总计: 35
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -41,3 +41,4 @@
 | 520 | 简单 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [solve/solve0520](../solve/solve0520)|
 | 521 | 简单 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [solve/solve0521](../solve/solve0521)|
 | 541 | 简单 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [solve/solve0541](../solve/solve0541)|
+| 551 | 简单 | [学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/) | [solve/solve0551](../solve/solve0551)|
