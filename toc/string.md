@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 27
+总计: 28
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -34,3 +34,4 @@
 | 541 | 简单 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [solve/solve0541](../solve/solve0541)|
 | 551 | 简单 | [学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/) | [solve/solve0551](../solve/solve0551)|
 | 557 | 简单 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [solve/solve0557](../solve/solve0557)|
+| 680 | 简单 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [solve/solve0680](../solve/solve0680)|
