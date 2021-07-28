@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 38
+总计: 39
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -45,3 +45,4 @@
 | 557 | 简单 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [solve/solve0557](../solve/solve0557)|
 | 657 | 简单 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | [solve/solve0657](../solve/solve0657)|
 | 680 | 简单 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [solve/solve0680](../solve/solve0680)|
+| 742 | 简单 | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) | [solve/solve0742](../solve/solve0742)|
