@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 12
+总计: 13
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -17,5 +17,6 @@
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 409 | 简单 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [solve/solve0409](../solve/solve0409)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
+| 599 | 简单 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [solve/solve0599](../solve/solve0599)|
 | 749 | 简单 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | [solve/solve0749](../solve/solve0749)|
 | 782 | 简单 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [solve/solve0782](../solve/solve0782)|
