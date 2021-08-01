@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 43
+总计: 44
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -50,3 +50,4 @@
 | 749 | 简单 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | [solve/solve0749](../solve/solve0749)|
 | 782 | 简单 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [solve/solve0782](../solve/solve0782)|
 | 812 | 简单 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/) | [solve/solve0812](../solve/solve0812)|
+| 822 | 简单 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | [solve/solve0822](../solve/solve0822)|
