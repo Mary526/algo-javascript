@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 38
+总计: 39
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -45,3 +45,4 @@
 | 824 | 简单 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [solve/solve0824](../solve/solve0824)|
 | 829 | 简单 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | [solve/solve0829](../solve/solve0829)|
 | 837 | 简单 | [最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | [solve/solve0837](../solve/solve0837)|
+| 841 | 简单 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [solve/solve0841](../solve/solve0841)|
