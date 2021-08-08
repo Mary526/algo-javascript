@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 17
+总计: 18
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -24,3 +24,4 @@
 | 829 | 简单 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | [solve/solve0829](../solve/solve0829)|
 | 837 | 简单 | [最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | [solve/solve0837](../solve/solve0837)|
 | 889 | 简单 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/) | [solve/solve0889](../solve/solve0889)|
+| 920 | 简单 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [solve/solve0920](../solve/solve0920)|
