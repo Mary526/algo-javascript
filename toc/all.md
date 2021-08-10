@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 55
+总计: 56
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -62,3 +62,4 @@
 | 920 | 简单 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [solve/solve0920](../solve/solve0920)|
 | 953 | 简单 | [仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | [solve/solve0953](../solve/solve0953)|
 | 961 | 简单 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [solve/solve0961](../solve/solve0961)|
+| 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|
