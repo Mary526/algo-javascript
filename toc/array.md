@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 13
+总计: 14
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -20,3 +20,4 @@
 | 829 | 简单 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | [solve/solve0829](../solve/solve0829)|
 | 841 | 简单 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [solve/solve0841](../solve/solve0841)|
 | 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|
+| 974 | 简单 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [solve/solve0974](../solve/solve0974)|
