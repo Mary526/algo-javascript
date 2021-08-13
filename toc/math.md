@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 7
+总计: 8
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -14,3 +14,4 @@
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
 | 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [solve/solve0171](../solve/solve0171)|
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
+| 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|

@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 48
+总计: 49
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -55,3 +55,4 @@
 | 961 | 简单 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [solve/solve0961](../solve/solve0961)|
 | 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|
 | 974 | 简单 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [solve/solve0974](../solve/solve0974)|
+| 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
