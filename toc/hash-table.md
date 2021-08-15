@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 19
+总计: 20
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -26,3 +26,4 @@
 | 889 | 简单 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/) | [solve/solve0889](../solve/solve0889)|
 | 920 | 简单 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [solve/solve0920](../solve/solve0920)|
 | 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|
+| 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|

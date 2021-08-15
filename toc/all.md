@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 59
+总计: 60
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -66,3 +66,4 @@
 | 974 | 简单 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [solve/solve0974](../solve/solve0974)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
 | 981 | 简单 | [删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [solve/solve0981](../solve/solve0981)|
+| 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
