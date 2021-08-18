@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 63
+总计: 64
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -69,4 +69,5 @@
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
 | 1128 | 简单 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [solve/solve1128](../solve/solve1128)|
+| 1156 | 简单 | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/) | [solve/solve1156](../solve/solve1156)|
 | 1205 | 简单 | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [solve/solve1205](../solve/solve1205)|
