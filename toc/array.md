@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 18
+总计: 19
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -25,3 +25,4 @@
 | 981 | 简单 | [删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [solve/solve0981](../solve/solve0981)|
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
+| 1836 | 困难 | [生成乘积数组的方案数](https://leetcode-cn.com/problems/count-ways-to-make-array-with-product/) | [solve/solve1836](../solve/solve1836)|

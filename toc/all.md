@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 64
+总计: 65
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -71,3 +71,4 @@
 | 1128 | 简单 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [solve/solve1128](../solve/solve1128)|
 | 1156 | 简单 | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/) | [solve/solve1156](../solve/solve1156)|
 | 1205 | 简单 | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [solve/solve1205](../solve/solve1205)|
+| 1836 | 困难 | [生成乘积数组的方案数](https://leetcode-cn.com/problems/count-ways-to-make-array-with-product/) | [solve/solve1836](../solve/solve1836)|
