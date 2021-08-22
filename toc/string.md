@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 55
+总计: 57
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -62,3 +62,5 @@
 | 1128 | 简单 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [solve/solve1128](../solve/solve1128)|
 | 1156 | 简单 | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/) | [solve/solve1156](../solve/solve1156)|
 | 1205 | 简单 | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [solve/solve1205](../solve/solve1205)|
+| 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
+| 1283 | 简单 | [转变日期格式](https://leetcode-cn.com/problems/reformat-date/) | [solve/solve1283](../solve/solve1283)|
