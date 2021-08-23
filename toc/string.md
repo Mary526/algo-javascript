@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 60
+总计: 61
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -66,4 +66,5 @@
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
 | 1283 | 简单 | [转变日期格式](https://leetcode-cn.com/problems/reformat-date/) | [solve/solve1283](../solve/solve1283)|
 | 1297 | 简单 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [solve/solve1297](../solve/solve1297)|
+| 1302 | 简单 | [删除字符使字符串变好](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string/) | [solve/solve1302](../solve/solve1302)|
 | 1341 | 简单 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [solve/solve1341](../solve/solve1341)|
