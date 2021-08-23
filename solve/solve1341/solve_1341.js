@@ -1,19 +1,19 @@
 /**
- * @index 1302
- * @title 删除字符使字符串变好
+ * @index 1341
+ * @title 分割平衡字符串
  * @difficulty 简单
- * @tags string
+ * @tags greedy,string,counting
  * @draft false
- * @link https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string/
- * @frontendId 1957
+ * @link https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
+ * @frontendId 1221
 */
 
 /**
  * @param {string} s
- * @return {string}
+ * @return {number}
  * @date 2021/8/24
  */
-var makeFancyString = function(s) {
+var balancedStringSplit = function(s) {
 let rCounts = 0
     let lCounts = 0
     let counts = 0
