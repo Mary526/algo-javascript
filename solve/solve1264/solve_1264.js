@@ -1,19 +1,20 @@
 /**
- * @index 1836
- * @title 生成乘积数组的方案数
- * @difficulty 困难
- * @tags array,math,dynamic-programming
+ * @index 1264
+ * @title 可以输入的最大单词数
+ * @difficulty 简单
+ * @tags hash-table,string
  * @draft false
- * @link https://leetcode-cn.com/problems/count-ways-to-make-array-with-product/
- * @frontendId 1735
+ * @link https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type/
+ * @frontendId 1935
 */
 
 /**
- * @param {number[][]} queries
- * @return {number[]}
+ * @param {string} text
+ * @param {string} brokenLetters
+ * @return {number}
  * @date 2021/8/20
  */
-var waysToFillArray = function(queries) {
+var canBeTypedWords = function(text, brokenLetters) {
 const brokenLettersList = brokenLetters.split("")
     let counts = 0
     for (ch of text.split(" ")) {
