@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 21
+总计: 22
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -28,3 +28,4 @@
 | 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
+| 1297 | 简单 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [solve/solve1297](../solve/solve1297)|

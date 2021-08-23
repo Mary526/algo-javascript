@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 57
+总计: 58
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -64,3 +64,4 @@
 | 1205 | 简单 | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [solve/solve1205](../solve/solve1205)|
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
 | 1283 | 简单 | [转变日期格式](https://leetcode-cn.com/problems/reformat-date/) | [solve/solve1283](../solve/solve1283)|
+| 1297 | 简单 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [solve/solve1297](../solve/solve1297)|
