@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 62
+总计: 63
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -69,3 +69,4 @@
 | 1302 | 简单 | [删除字符使字符串变好](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string/) | [solve/solve1302](../solve/solve1302)|
 | 1341 | 简单 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [solve/solve1341](../solve/solve1341)|
 | 1434 | 简单 | [解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [solve/solve1434](../solve/solve1434)|
+| 1454 | 简单 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [solve/solve1454](../solve/solve1454)|

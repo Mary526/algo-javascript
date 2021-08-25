@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 16
+总计: 17
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -23,3 +23,4 @@
 | 953 | 简单 | [仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | [solve/solve0953](../solve/solve0953)|
 | 961 | 简单 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [solve/solve0961](../solve/solve0961)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
+| 1454 | 简单 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [solve/solve1454](../solve/solve1454)|
