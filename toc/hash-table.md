@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 23
+总计: 24
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -30,3 +30,4 @@
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
 | 1264 | 简单 | [可以输入的最大单词数](https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type/) | [solve/solve1264](../solve/solve1264)|
 | 1297 | 简单 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [solve/solve1297](../solve/solve1297)|
+| 1547 | 简单 | [旅行终点站](https://leetcode-cn.com/problems/destination-city/) | [solve/solve1547](../solve/solve1547)|
