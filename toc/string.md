@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 65
+总计: 66
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -72,3 +72,4 @@
 | 1454 | 简单 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [solve/solve1454](../solve/solve1454)|
 | 1490 | 简单 | [生成每种字符都是奇数个的字符串](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [solve/solve1490](../solve/solve1490)|
 | 1547 | 简单 | [旅行终点站](https://leetcode-cn.com/problems/destination-city/) | [solve/solve1547](../solve/solve1547)|
+| 1566 | 简单 | [检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [solve/solve1566](../solve/solve1566)|
