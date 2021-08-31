@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 68
+总计: 69
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -75,3 +75,4 @@
 | 1566 | 简单 | [检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [solve/solve1566](../solve/solve1566)|
 | 1619 | 简单 | [判断路径是否相交](https://leetcode-cn.com/problems/path-crossing/) | [solve/solve1619](../solve/solve1619)|
 | 1651 | 简单 | [重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/) | [solve/solve1651](../solve/solve1651)|
+| 1660 | 简单 | [千位分隔数](https://leetcode-cn.com/problems/thousand-separator/) | [solve/solve1660](../solve/solve1660)|
