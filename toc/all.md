@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 81
+总计: 82
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -88,3 +88,4 @@
 | 1660 | 简单 | [千位分隔数](https://leetcode-cn.com/problems/thousand-separator/) | [solve/solve1660](../solve/solve1660)|
 | 1666 | 简单 | [整理字符串](https://leetcode-cn.com/problems/make-the-string-great/) | [solve/solve1666](../solve/solve1666)|
 | 1698 | 简单 | [替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [solve/solve1698](../solve/solve1698)|
+| 2122 | 简单 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | [solve/solve2122](../solve/solve2122)|
