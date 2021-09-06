@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 19
+总计: 20
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -15,6 +15,7 @@
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 599 | 简单 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [solve/solve0599](../solve/solve0599)|
+| 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
 | 822 | 简单 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | [solve/solve0822](../solve/solve0822)|
 | 824 | 简单 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [solve/solve0824](../solve/solve0824)|
 | 829 | 简单 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | [solve/solve0829](../solve/solve0829)|
