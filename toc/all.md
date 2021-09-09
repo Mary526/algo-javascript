@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 84
+总计: 85
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -39,6 +39,7 @@
 | 434 | 简单 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [solve/solve0434](../solve/solve0434)|
 | 482 | 简单 | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/) | [solve/solve0482](../solve/solve0482)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
+| 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|
 | 520 | 简单 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [solve/solve0520](../solve/solve0520)|
 | 521 | 简单 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [solve/solve0521](../solve/solve0521)|
 | 541 | 简单 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [solve/solve0541](../solve/solve0541)|
