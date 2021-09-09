@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 74
+总计: 75
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -12,6 +12,7 @@
 | 20 | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [solve/solve0020](../solve/solve0020)|
 | 28 | 简单 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [solve/solve0028](../solve/solve0028)|
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
+| 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 165 | 中等 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | [solve/solve0165](../solve/solve0165)|
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
