@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 21
+总计: 22
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -28,3 +28,4 @@
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
 | 1651 | 简单 | [重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/) | [solve/solve1651](../solve/solve1651)|
+| 1720 | 简单 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [solve/solve1720](../solve/solve1720)|
