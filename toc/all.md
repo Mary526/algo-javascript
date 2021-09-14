@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 90
+总计: 92
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -97,3 +97,5 @@
 | 1720 | 简单 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [solve/solve1720](../solve/solve1720)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
 | 2122 | 简单 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | [solve/solve2122](../solve/solve2122)|
+| 2128 | 简单 | [反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [solve/solve2128](../solve/solve2128)|
+| 2129 | 中等 | [可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [solve/solve2129](../solve/solve2129)|
