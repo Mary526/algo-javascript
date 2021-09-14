@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 5
+总计: 6
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -11,4 +11,5 @@
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|
+| 524 | 中等 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [solve/solve0524](../solve/solve0524)|
 | 974 | 简单 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [solve/solve0974](../solve/solve0974)|
