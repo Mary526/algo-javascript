@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 76
+总计: 77
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -83,3 +83,4 @@
 | 1698 | 简单 | [替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [solve/solve1698](../solve/solve1698)|
 | 1714 | 简单 | [重新排列单词间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/) | [solve/solve1714](../solve/solve1714)|
 | 1720 | 简单 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [solve/solve1720](../solve/solve1720)|
+| 1781 | 简单 | [检查两个字符串数组是否相等](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [solve/solve1781](../solve/solve1781)|
