@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 95
+总计: 96
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -18,6 +18,7 @@
 | 27 | 简单 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
 | 28 | 简单 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [solve/solve0028](../solve/solve0028)|
 | 35 | 简单 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [solve/solve0035](../solve/solve0035)|
+| 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [solve/solve0036](../solve/solve0036)|
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
