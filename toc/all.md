@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 96
+总计: 97
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -32,6 +32,7 @@
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
+| 292 | 简单 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [solve/solve0292](../solve/solve0292)|
 | 344 | 简单 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [solve/solve0344](../solve/solve0344)|
 | 345 | 简单 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [solve/solve0345](../solve/solve0345)|
 | 383 | 简单 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [solve/solve0383](../solve/solve0383)|
