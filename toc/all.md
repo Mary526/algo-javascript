@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 97
+总计: 98
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -104,3 +104,4 @@
 | 2122 | 简单 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | [solve/solve2122](../solve/solve2122)|
 | 2128 | 简单 | [反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [solve/solve2128](../solve/solve2128)|
 | 2129 | 中等 | [可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [solve/solve2129](../solve/solve2129)|
+| 2138 | 中等 | [数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array/) | [solve/solve2138](../solve/solve2138)|
