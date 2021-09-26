@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 101
+总计: 102
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -108,3 +108,4 @@
 | 2128 | 简单 | [反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [solve/solve2128](../solve/solve2128)|
 | 2129 | 中等 | [可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [solve/solve2129](../solve/solve2129)|
 | 2138 | 中等 | [数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array/) | [solve/solve2138](../solve/solve2138)|
+| 2144 | 简单 | [增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/) | [solve/solve2144](../solve/solve2144)|
