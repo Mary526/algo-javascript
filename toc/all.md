@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 102
+总计: 103
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -23,6 +23,7 @@
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
+| 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
 | 100 | 简单 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [solve/solve0100](../solve/solve0100)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
