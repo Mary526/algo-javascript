@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 105
+总计: 106
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -43,6 +43,7 @@
 | 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
 | 409 | 简单 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [solve/solve0409](../solve/solve0409)|
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
+| 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
 | 434 | 简单 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [solve/solve0434](../solve/solve0434)|
 | 437 | 中等 | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [solve/solve0437](../solve/solve0437)|
 | 482 | 简单 | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/) | [solve/solve0482](../solve/solve0482)|
