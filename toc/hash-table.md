@@ -3,13 +3,14 @@
 <!--- table -->
 
 
-总计: 26
+总计: 27
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [solve/solve0001](../solve/solve0001)|
 | 13 | 简单 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [solve/solve0013](../solve/solve0013)|
 | 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [solve/solve0036](../solve/solve0036)|
+| 187 | 中等 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [solve/solve0187](../solve/solve0187)|
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
