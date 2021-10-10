@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 11
+总计: 12
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -16,5 +16,6 @@
 | 292 | 简单 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [solve/solve0292](../solve/solve0292)|
 | 326 | 简单 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [solve/solve0326](../solve/solve0326)|
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
+| 441 | 简单 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | [solve/solve0441](../solve/solve0441)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
