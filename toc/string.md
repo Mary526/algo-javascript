@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 82
+总计: 83
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -11,6 +11,7 @@
 | 14 | 简单 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [solve/solve0014](../solve/solve0014)|
 | 20 | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [solve/solve0020](../solve/solve0020)|
 | 28 | 简单 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [solve/solve0028](../solve/solve0028)|
+| 38 | 中等 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [solve/solve0038](../solve/solve0038)|
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
 | 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
