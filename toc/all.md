@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 110
+总计: 111
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -50,6 +50,7 @@
 | 434 | 简单 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [solve/solve0434](../solve/solve0434)|
 | 437 | 中等 | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [solve/solve0437](../solve/solve0437)|
 | 441 | 简单 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | [solve/solve0441](../solve/solve0441)|
+| 476 | 简单 | [数字的补数](https://leetcode-cn.com/problems/number-complement/) | [solve/solve0476](../solve/solve0476)|
 | 482 | 简单 | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/) | [solve/solve0482](../solve/solve0482)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|
