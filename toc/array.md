@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 28
+总计: 29
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -16,6 +16,7 @@
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
 | 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
+| 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|
 | 524 | 中等 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [solve/solve0524](../solve/solve0524)|
