@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 113
+总计: 114
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -54,6 +54,7 @@
 | 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
 | 476 | 简单 | [数字的补数](https://leetcode-cn.com/problems/number-complement/) | [solve/solve0476](../solve/solve0476)|
 | 482 | 简单 | [密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/) | [solve/solve0482](../solve/solve0482)|
+| 492 | 简单 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/) | [solve/solve0492](../solve/solve0492)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|
 | 520 | 简单 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [solve/solve0520](../solve/solve0520)|

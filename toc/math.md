@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 13
+总计: 14
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -18,5 +18,6 @@
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
 | 441 | 简单 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | [solve/solve0441](../solve/solve0441)|
 | 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
+| 492 | 简单 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/) | [solve/solve0492](../solve/solve0492)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
