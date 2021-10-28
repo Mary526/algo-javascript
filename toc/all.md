@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 114
+总计: 115
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -83,6 +83,7 @@
 | 857 | 简单 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [solve/solve0857](../solve/solve0857)|
 | 874 | 简单 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [solve/solve0874](../solve/solve0874)|
 | 889 | 简单 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/) | [solve/solve0889](../solve/solve0889)|
+| 900 | 中等 | [重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | [solve/solve0900](../solve/solve0900)|
 | 920 | 简单 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [solve/solve0920](../solve/solve0920)|
 | 953 | 简单 | [仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | [solve/solve0953](../solve/solve0953)|
 | 961 | 简单 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [solve/solve0961](../solve/solve0961)|
