@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 30
+总计: 31
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -16,6 +16,7 @@
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
 | 229 | 中等 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [solve/solve0229](../solve/solve0229)|
+| 260 | 中等 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [solve/solve0260](../solve/solve0260)|
 | 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
 | 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|

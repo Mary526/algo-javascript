@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 115
+总计: 116
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -36,6 +36,7 @@
 | 229 | 中等 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [solve/solve0229](../solve/solve0229)|
 | 230 | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [solve/solve0230](../solve/solve0230)|
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
+| 260 | 中等 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [solve/solve0260](../solve/solve0260)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
 | 292 | 简单 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [solve/solve0292](../solve/solve0292)|
 | 326 | 简单 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [solve/solve0326](../solve/solve0326)|
