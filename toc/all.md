@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 118
+总计: 119
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -27,6 +27,7 @@
 | 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
 | 100 | 简单 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [solve/solve0100](../solve/solve0100)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
+| 144 | 简单 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [solve/solve0144](../solve/solve0144)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
 | 165 | 中等 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | [solve/solve0165](../solve/solve0165)|
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
