@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 119
+总计: 120
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -25,6 +25,7 @@
 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
+| 94 | 简单 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [solve/solve0094](../solve/solve0094)|
 | 100 | 简单 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [solve/solve0100](../solve/solve0100)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 144 | 简单 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [solve/solve0144](../solve/solve0144)|
