@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 120
+总计: 121
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -45,6 +45,7 @@
 | 326 | 简单 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [solve/solve0326](../solve/solve0326)|
 | 344 | 简单 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [solve/solve0344](../solve/solve0344)|
 | 345 | 简单 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [solve/solve0345](../solve/solve0345)|
+| 367 | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [solve/solve0367](../solve/solve0367)|
 | 383 | 简单 | [赎金信](https://leetcode-cn.com/problems/ransom-note/) | [solve/solve0383](../solve/solve0383)|
 | 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
