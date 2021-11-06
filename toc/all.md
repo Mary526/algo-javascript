@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 121
+总计: 122
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -40,6 +40,7 @@
 | 237 | 简单 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [solve/solve0237](../solve/solve0237)|
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 260 | 中等 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [solve/solve0260](../solve/solve0260)|
+| 268 | 简单 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [solve/solve0268](../solve/solve0268)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
 | 292 | 简单 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [solve/solve0292](../solve/solve0292)|
 | 326 | 简单 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [solve/solve0326](../solve/solve0326)|

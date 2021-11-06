@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 16
+总计: 17
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -13,6 +13,7 @@
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
 | 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [solve/solve0171](../solve/solve0171)|
+| 268 | 简单 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [solve/solve0268](../solve/solve0268)|
 | 292 | 简单 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [solve/solve0292](../solve/solve0292)|
 | 326 | 简单 | [3的幂](https://leetcode-cn.com/problems/power-of-three/) | [solve/solve0326](../solve/solve0326)|
 | 367 | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [solve/solve0367](../solve/solve0367)|
