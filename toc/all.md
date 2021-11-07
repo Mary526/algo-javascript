@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 122
+总计: 123
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -71,6 +71,7 @@
 | 557 | 简单 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [solve/solve0557](../solve/solve0557)|
 | 575 | 简单 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [solve/solve0575](../solve/solve0575)|
 | 583 | 中等 | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [solve/solve0583](../solve/solve0583)|
+| 598 | 简单 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [solve/solve0598](../solve/solve0598)|
 | 599 | 简单 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [solve/solve0599](../solve/solve0599)|
 | 600 | 困难 | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | [solve/solve0600](../solve/solve0600)|
 | 639 | 困难 | [解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii/) | [solve/solve0639](../solve/solve0639)|

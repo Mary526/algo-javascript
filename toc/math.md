@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 17
+总计: 18
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -21,6 +21,7 @@
 | 441 | 简单 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | [solve/solve0441](../solve/solve0441)|
 | 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
 | 492 | 简单 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/) | [solve/solve0492](../solve/solve0492)|
+| 598 | 简单 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [solve/solve0598](../solve/solve0598)|
 | 900 | 中等 | [重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | [solve/solve0900](../solve/solve0900)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
