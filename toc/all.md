@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 124
+总计: 125
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -41,6 +41,7 @@
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
 | 260 | 中等 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [solve/solve0260](../solve/solve0260)|
 | 268 | 简单 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [solve/solve0268](../solve/solve0268)|
+| 278 | 简单 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [solve/solve0278](../solve/solve0278)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
 | 292 | 简单 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [solve/solve0292](../solve/solve0292)|
 | 299 | 中等 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) | [solve/solve0299](../solve/solve0299)|
