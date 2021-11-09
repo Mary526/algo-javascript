@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 35
+总计: 36
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -15,6 +15,7 @@
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
+| 189 | 中等 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
 | 229 | 中等 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [solve/solve0229](../solve/solve0229)|
 | 260 | 中等 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [solve/solve0260](../solve/solve0260)|
 | 268 | 简单 | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | [solve/solve0268](../solve/solve0268)|

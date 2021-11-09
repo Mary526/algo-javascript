@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 127
+总计: 128
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -34,6 +34,7 @@
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
 | 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [solve/solve0171](../solve/solve0171)|
 | 187 | 中等 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [solve/solve0187](../solve/solve0187)|
+| 189 | 中等 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
 | 229 | 中等 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [solve/solve0229](../solve/solve0229)|
 | 230 | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [solve/solve0230](../solve/solve0230)|
