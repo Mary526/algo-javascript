@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 10
+总计: 11
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -17,3 +17,4 @@
 | 524 | 中等 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [solve/solve0524](../solve/solve0524)|
 | 900 | 中等 | [重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | [solve/solve0900](../solve/solve0900)|
 | 974 | 简单 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [solve/solve0974](../solve/solve0974)|
+| 1019 | 简单 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [solve/solve1019](../solve/solve1019)|
