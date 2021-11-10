@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 130
+总计: 131
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -31,6 +31,7 @@
 | 144 | 简单 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [solve/solve0144](../solve/solve0144)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
 | 165 | 中等 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | [solve/solve0165](../solve/solve0165)|
+| 167 | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [solve/solve0167](../solve/solve0167)|
 | 168 | 简单 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [solve/solve0168](../solve/solve0168)|
 | 171 | 简单 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [solve/solve0171](../solve/solve0171)|
 | 187 | 中等 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [solve/solve0187](../solve/solve0187)|
