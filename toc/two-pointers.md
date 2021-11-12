@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 23
+总计: 24
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -25,6 +25,7 @@
 | 680 | 简单 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [solve/solve0680](../solve/solve0680)|
 | 841 | 简单 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [solve/solve0841](../solve/solve0841)|
 | 874 | 简单 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [solve/solve0874](../solve/solve0874)|
+| 908 | 简单 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [solve/solve0908](../solve/solve0908)|
 | 953 | 简单 | [仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | [solve/solve0953](../solve/solve0953)|
 | 961 | 简单 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [solve/solve0961](../solve/solve0961)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
