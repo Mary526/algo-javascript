@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 134
+总计: 135
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -38,6 +38,7 @@
 | 187 | 中等 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [solve/solve0187](../solve/solve0187)|
 | 189 | 中等 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
+| 206 | 简单 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [solve/solve0206](../solve/solve0206)|
 | 229 | 中等 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [solve/solve0229](../solve/solve0229)|
 | 230 | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [solve/solve0230](../solve/solve0230)|
 | 237 | 简单 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [solve/solve0237](../solve/solve0237)|
