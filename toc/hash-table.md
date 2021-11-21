@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 33
+总计: 34
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -23,6 +23,7 @@
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 409 | 简单 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [solve/solve0409](../solve/solve0409)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
+| 567 | 中等 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | [solve/solve0567](../solve/solve0567)|
 | 575 | 简单 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [solve/solve0575](../solve/solve0575)|
 | 594 | 简单 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [solve/solve0594](../solve/solve0594)|
 | 599 | 简单 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [solve/solve0599](../solve/solve0599)|

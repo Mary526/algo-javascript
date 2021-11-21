@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 140
+总计: 141
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -81,6 +81,7 @@
 | 551 | 简单 | [学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/) | [solve/solve0551](../solve/solve0551)|
 | 557 | 简单 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [solve/solve0557](../solve/solve0557)|
 | 563 | 简单 | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [solve/solve0563](../solve/solve0563)|
+| 567 | 中等 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | [solve/solve0567](../solve/solve0567)|
 | 575 | 简单 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [solve/solve0575](../solve/solve0575)|
 | 583 | 中等 | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [solve/solve0583](../solve/solve0583)|
 | 594 | 简单 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [solve/solve0594](../solve/solve0594)|

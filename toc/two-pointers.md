@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 25
+总计: 26
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -23,6 +23,7 @@
 | 524 | 中等 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [solve/solve0524](../solve/solve0524)|
 | 541 | 简单 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [solve/solve0541](../solve/solve0541)|
 | 557 | 简单 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [solve/solve0557](../solve/solve0557)|
+| 567 | 中等 | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | [solve/solve0567](../solve/solve0567)|
 | 680 | 简单 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [solve/solve0680](../solve/solve0680)|
 | 841 | 简单 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [solve/solve0841](../solve/solve0841)|
 | 874 | 简单 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [solve/solve0874](../solve/solve0874)|
