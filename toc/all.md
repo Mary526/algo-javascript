@@ -3,11 +3,12 @@
 <!--- table -->
 
 
-总计: 136
+总计: 140
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [solve/solve0001](../solve/solve0001)|
+| 3 | 中等 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [solve/solve0003](../solve/solve0003)|
 | 7 | 简单 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [solve/solve0007](../solve/solve0007)|
 | 9 | 简单 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [solve/solve0009](../solve/solve0009)|
 | 13 | 简单 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [solve/solve0013](../solve/solve0013)|
@@ -59,6 +60,7 @@
 | 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
+| 397 | 中等 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [solve/solve0397](../solve/solve0397)|
 | 409 | 简单 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [solve/solve0409](../solve/solve0409)|
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
 | 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
@@ -81,6 +83,7 @@
 | 563 | 简单 | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [solve/solve0563](../solve/solve0563)|
 | 575 | 简单 | [分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [solve/solve0575](../solve/solve0575)|
 | 583 | 中等 | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [solve/solve0583](../solve/solve0583)|
+| 594 | 简单 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [solve/solve0594](../solve/solve0594)|
 | 598 | 简单 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [solve/solve0598](../solve/solve0598)|
 | 599 | 简单 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [solve/solve0599](../solve/solve0599)|
 | 600 | 困难 | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | [solve/solve0600](../solve/solve0600)|
@@ -89,6 +92,7 @@
 | 680 | 简单 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [solve/solve0680](../solve/solve0680)|
 | 742 | 简单 | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) | [solve/solve0742](../solve/solve0742)|
 | 749 | 简单 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | [solve/solve0749](../solve/solve0749)|
+| 774 | 简单 | [N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [solve/solve0774](../solve/solve0774)|
 | 782 | 简单 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [solve/solve0782](../solve/solve0782)|
 | 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
 | 812 | 简单 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/) | [solve/solve0812](../solve/solve0812)|
