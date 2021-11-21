@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 7
+总计: 8
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -13,4 +13,5 @@
 | 230 | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [solve/solve0230](../solve/solve0230)|
 | 437 | 中等 | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [solve/solve0437](../solve/solve0437)|
 | 563 | 简单 | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [solve/solve0563](../solve/solve0563)|
+| 617 | 简单 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [solve/solve0617](../solve/solve0617)|
 | 774 | 简单 | [N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [solve/solve0774](../solve/solve0774)|
