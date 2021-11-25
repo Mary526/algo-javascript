@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 42
+总计: 43
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -12,6 +12,7 @@
 | 27 | 简单 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
 | 35 | 简单 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [solve/solve0035](../solve/solve0035)|
 | 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [solve/solve0036](../solve/solve0036)|
+| 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations/) | [solve/solve0046](../solve/solve0046)|
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|

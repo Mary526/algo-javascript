@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 144
+总计: 145
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -22,6 +22,7 @@
 | 35 | 简单 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [solve/solve0035](../solve/solve0035)|
 | 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [solve/solve0036](../solve/solve0036)|
 | 38 | 中等 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [solve/solve0038](../solve/solve0038)|
+| 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations/) | [solve/solve0046](../solve/solve0046)|
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
