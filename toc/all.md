@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 146
+总计: 147
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -101,6 +101,7 @@
 | 774 | 简单 | [N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [solve/solve0774](../solve/solve0774)|
 | 782 | 简单 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [solve/solve0782](../solve/solve0782)|
 | 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
+| 800 | 中等 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [solve/solve0800](../solve/solve0800)|
 | 812 | 简单 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/) | [solve/solve0812](../solve/solve0812)|
 | 815 | 中等 | [香槟塔](https://leetcode-cn.com/problems/champagne-tower/) | [solve/solve0815](../solve/solve0815)|
 | 822 | 简单 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | [solve/solve0822](../solve/solve0822)|
