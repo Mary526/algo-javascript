@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 147
+总计: 149
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -23,6 +23,7 @@
 | 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [solve/solve0036](../solve/solve0036)|
 | 38 | 中等 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [solve/solve0038](../solve/solve0038)|
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations/) | [solve/solve0046](../solve/solve0046)|
+| 48 | 中等 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [solve/solve0048](../solve/solve0048)|
 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
@@ -116,6 +117,7 @@
 | 900 | 中等 | [重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | [solve/solve0900](../solve/solve0900)|
 | 908 | 简单 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [solve/solve0908](../solve/solve0908)|
 | 920 | 简单 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [solve/solve0920](../solve/solve0920)|
+| 950 | 简单 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [solve/solve0950](../solve/solve0950)|
 | 953 | 简单 | [仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/) | [solve/solve0953](../solve/solve0953)|
 | 961 | 简单 | [长按键入](https://leetcode-cn.com/problems/long-pressed-name/) | [solve/solve0961](../solve/solve0961)|
 | 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|

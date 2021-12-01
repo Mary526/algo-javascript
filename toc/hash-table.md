@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 35
+总计: 36
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -35,6 +35,7 @@
 | 837 | 简单 | [最常见的单词](https://leetcode-cn.com/problems/most-common-word/) | [solve/solve0837](../solve/solve0837)|
 | 889 | 简单 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/) | [solve/solve0889](../solve/solve0889)|
 | 920 | 简单 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [solve/solve0920](../solve/solve0920)|
+| 950 | 简单 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [solve/solve0950](../solve/solve0950)|
 | 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
