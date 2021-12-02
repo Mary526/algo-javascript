@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 12
+总计: 13
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -14,6 +14,7 @@
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
 | 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|
+| 506 | 简单 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/) | [solve/solve0506](../solve/solve0506)|
 | 524 | 中等 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [solve/solve0524](../solve/solve0524)|
 | 594 | 简单 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [solve/solve0594](../solve/solve0594)|
 | 900 | 中等 | [重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | [solve/solve0900](../solve/solve0900)|

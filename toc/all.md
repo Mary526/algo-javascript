@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 149
+总计: 150
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -79,6 +79,7 @@
 | 495 | 简单 | [提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/) | [solve/solve0495](../solve/solve0495)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|
+| 506 | 简单 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/) | [solve/solve0506](../solve/solve0506)|
 | 520 | 简单 | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [solve/solve0520](../solve/solve0520)|
 | 521 | 简单 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [solve/solve0521](../solve/solve0521)|
 | 524 | 中等 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [solve/solve0524](../solve/solve0524)|
