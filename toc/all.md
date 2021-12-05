@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 150
+总计: 151
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -140,6 +140,7 @@
 | 1341 | 简单 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [solve/solve1341](../solve/solve1341)|
 | 1434 | 简单 | [解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [solve/solve1434](../solve/solve1434)|
 | 1454 | 简单 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [solve/solve1454](../solve/solve1454)|
+| 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
 | 1490 | 简单 | [生成每种字符都是奇数个的字符串](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [solve/solve1490](../solve/solve1490)|
 | 1547 | 简单 | [旅行终点站](https://leetcode-cn.com/problems/destination-city/) | [solve/solve1547](../solve/solve1547)|
 | 1566 | 简单 | [检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [solve/solve1566](../solve/solve1566)|
