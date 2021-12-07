@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 152
+总计: 153
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -19,6 +19,7 @@
 | 26 | 简单 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [solve/solve0026](../solve/solve0026)|
 | 27 | 简单 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
 | 28 | 简单 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [solve/solve0028](../solve/solve0028)|
+| 31 | 中等 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [solve/solve0031](../solve/solve0031)|
 | 35 | 简单 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [solve/solve0035](../solve/solve0035)|
 | 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [solve/solve0036](../solve/solve0036)|
 | 38 | 中等 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [solve/solve0038](../solve/solve0038)|
