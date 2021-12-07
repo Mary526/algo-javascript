@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 153
+总计: 154
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -35,6 +35,7 @@
 | 116 | 中等 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [solve/solve0116](../solve/solve0116)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 144 | 简单 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [solve/solve0144](../solve/solve0144)|
+| 160 | 简单 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [solve/solve0160](../solve/solve0160)|
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
 | 165 | 中等 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | [solve/solve0165](../solve/solve0165)|
 | 167 | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [solve/solve0167](../solve/solve0167)|

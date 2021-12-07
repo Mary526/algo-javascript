@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 27
+总计: 28
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -14,6 +14,7 @@
 | 31 | 中等 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [solve/solve0031](../solve/solve0031)|
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
+| 160 | 简单 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [solve/solve0160](../solve/solve0160)|
 | 165 | 中等 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | [solve/solve0165](../solve/solve0165)|
 | 167 | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [solve/solve0167](../solve/solve0167)|
 | 189 | 中等 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|
