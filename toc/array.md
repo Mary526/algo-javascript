@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 50
+总计: 51
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -41,6 +41,7 @@
 | 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
 | 822 | 简单 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | [solve/solve0822](../solve/solve0822)|
 | 824 | 简单 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [solve/solve0824](../solve/solve0824)|
+| 825 | 中等 | [保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [solve/solve0825](../solve/solve0825)|
 | 829 | 简单 | [子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/) | [solve/solve0829](../solve/solve0829)|
 | 841 | 简单 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [solve/solve0841](../solve/solve0841)|
 | 947 | 中等 | [在线选举](https://leetcode-cn.com/problems/online-election/) | [solve/solve0947](../solve/solve0947)|
