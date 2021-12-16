@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 159
+总计: 160
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -71,6 +71,7 @@
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
 | 397 | 中等 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [solve/solve0397](../solve/solve0397)|
+| 404 | 简单 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [solve/solve0404](../solve/solve0404)|
 | 409 | 简单 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [solve/solve0409](../solve/solve0409)|
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
 | 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
