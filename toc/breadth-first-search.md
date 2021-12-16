@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 7
+总计: 8
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -14,3 +14,4 @@
 | 404 | 简单 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [solve/solve0404](../solve/solve0404)|
 | 617 | 简单 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [solve/solve0617](../solve/solve0617)|
 | 774 | 简单 | [N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [solve/solve0774](../solve/solve0774)|
+| 893 | 中等 | [二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | [solve/solve0893](../solve/solve0893)|
