@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 89
+总计: 90
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -23,6 +23,7 @@
 | 187 | 中等 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [solve/solve0187](../solve/solve0187)|
 | 205 | 简单 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) | [solve/solve0205](../solve/solve0205)|
 | 242 | 简单 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | [solve/solve0242](../solve/solve0242)|
+| 257 | 简单 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [solve/solve0257](../solve/solve0257)|
 | 290 | 简单 | [单词规律](https://leetcode-cn.com/problems/word-pattern/) | [solve/solve0290](../solve/solve0290)|
 | 299 | 中等 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) | [solve/solve0299](../solve/solve0299)|
 | 318 | 中等 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [solve/solve0318](../solve/solve0318)|
