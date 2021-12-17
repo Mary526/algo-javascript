@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 24
+总计: 25
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -29,5 +29,6 @@
 | 900 | 中等 | [重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | [solve/solve0900](../solve/solve0900)|
 | 950 | 简单 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [solve/solve0950](../solve/solve0950)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
+| 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
 | 1642 | 简单 | [换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [solve/solve1642](../solve/solve1642)|

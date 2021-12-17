@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 51
+总计: 52
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -50,6 +50,7 @@
 | 974 | 简单 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [solve/solve0974](../solve/solve0974)|
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
 | 981 | 简单 | [删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [solve/solve0981](../solve/solve0981)|
+| 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 1019 | 简单 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [solve/solve1019](../solve/solve1019)|
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
