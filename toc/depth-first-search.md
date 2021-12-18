@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 14
+总计: 15
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -16,6 +16,7 @@
 | 230 | 中等 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [solve/solve0230](../solve/solve0230)|
 | 257 | 简单 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [solve/solve0257](../solve/solve0257)|
 | 404 | 简单 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [solve/solve0404](../solve/solve0404)|
+| 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|
 | 437 | 中等 | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [solve/solve0437](../solve/solve0437)|
 | 563 | 简单 | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) | [solve/solve0563](../solve/solve0563)|
 | 617 | 简单 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [solve/solve0617](../solve/solve0617)|
