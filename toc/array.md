@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 56
+总计: 57
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -58,6 +58,7 @@
 | 977 | 1019 | 简单 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [solve/solve1019](../solve/solve1019)|
 | 1002 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1160 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
+| 1254 | 1380 | 中等 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/) | [solve/solve1380](../solve/solve1380)|
 | 1338 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
 | 1528 | 1651 | 简单 | [重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/) | [solve/solve1651](../solve/solve1651)|
 | 1598 | 1720 | 简单 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [solve/solve1720](../solve/solve1720)|

@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 169
+总计: 170
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -155,6 +155,7 @@
 | 1189 | 1297 | 简单 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [solve/solve1297](../solve/solve1297)|
 | 1957 | 1302 | 简单 | [删除字符使字符串变好](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string/) | [solve/solve1302](../solve/solve1302)|
 | 1221 | 1341 | 简单 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [solve/solve1341](../solve/solve1341)|
+| 1254 | 1380 | 中等 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/) | [solve/solve1380](../solve/solve1380)|
 | 1309 | 1434 | 简单 | [解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [solve/solve1434](../solve/solve1434)|
 | 1332 | 1454 | 简单 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [solve/solve1454](../solve/solve1454)|
 | 1338 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
