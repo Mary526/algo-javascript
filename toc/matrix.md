@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 7
+总计: 8
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -12,5 +12,6 @@
 | 79 | 79 | 中等 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [solve/solve0079](../solve/solve0079)|
 | 200 | 200 | 中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [solve/solve0200](../solve/solve0200)|
 | 419 | 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|
+| 695 | 695 | 中等 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [solve/solve0695](../solve/solve0695)|
 | 807 | 825 | 中等 | [保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [solve/solve0825](../solve/solve0825)|
 | 1254 | 1380 | 中等 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/) | [solve/solve1380](../solve/solve1380)|

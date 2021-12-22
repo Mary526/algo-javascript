@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 59
+总计: 60
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -44,6 +44,7 @@
 | 594 | 594 | 简单 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [solve/solve0594](../solve/solve0594)|
 | 598 | 598 | 简单 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [solve/solve0598](../solve/solve0598)|
 | 599 | 599 | 简单 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [solve/solve0599](../solve/solve0599)|
+| 695 | 695 | 中等 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [solve/solve0695](../solve/solve0695)|
 | 704 | 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
 | 804 | 822 | 简单 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | [solve/solve0822](../solve/solve0822)|
 | 806 | 824 | 简单 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [solve/solve0824](../solve/solve0824)|
