@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 171
+总计: 172
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -30,6 +30,7 @@
 | 58 | 58 | 简单 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [solve/solve0058](../solve/solve0058)|
 | 66 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 68 | 68 | 困难 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | [solve/solve0068](../solve/solve0068)|
+| 79 | 79 | 中等 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [solve/solve0079](../solve/solve0079)|
 | 88 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
 | 91 | 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
 | 93 | 93 | 中等 | [复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [solve/solve0093](../solve/solve0093)|
