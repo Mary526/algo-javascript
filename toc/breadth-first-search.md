@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 12
+总计: 13
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -19,3 +19,4 @@
 | 785 | 801 | 中等 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | [solve/solve0801](../solve/solve0801)|
 | 863 | 893 | 中等 | [二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | [solve/solve0893](../solve/solve0893)|
 | 1254 | 1380 | 中等 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/) | [solve/solve1380](../solve/solve1380)|
+| 1609 | 1731 | 中等 | [奇偶树](https://leetcode-cn.com/problems/even-odd-tree/) | [solve/solve1731](../solve/solve1731)|
