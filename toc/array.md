@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 63
+总计: 64
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -34,6 +34,7 @@
 | 380 | 380 | 中等 | [O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [solve/solve0380](../solve/solve0380)|
 | 384 | 384 | 中等 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | [solve/solve0384](../solve/solve0384)|
 | 414 | 414 | 简单 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/) | [solve/solve0414](../solve/solve0414)|
+| 416 | 416 | 中等 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [solve/solve0416](../solve/solve0416)|
 | 419 | 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|
 | 453 | 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
 | 475 | 475 | 中等 | [供暖器](https://leetcode-cn.com/problems/heaters/) | [solve/solve0475](../solve/solve0475)|
