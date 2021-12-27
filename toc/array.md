@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 61
+总计: 62
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -21,6 +21,7 @@
 | 66 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 79 | 79 | 中等 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [solve/solve0079](../solve/solve0079)|
 | 88 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|
+| 118 | 118 | 简单 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [solve/solve0118](../solve/solve0118)|
 | 162 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
 | 167 | 167 | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [solve/solve0167](../solve/solve0167)|
 | 189 | 189 | 中等 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [solve/solve0189](../solve/solve0189)|

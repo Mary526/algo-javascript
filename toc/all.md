@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 176
+总计: 177
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -38,6 +38,7 @@
 | 94 | 94 | 简单 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [solve/solve0094](../solve/solve0094)|
 | 100 | 100 | 简单 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [solve/solve0100](../solve/solve0100)|
 | 116 | 116 | 中等 | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [solve/solve0116](../solve/solve0116)|
+| 118 | 118 | 简单 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [solve/solve0118](../solve/solve0118)|
 | 125 | 125 | 简单 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [solve/solve0125](../solve/solve0125)|
 | 144 | 144 | 简单 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [solve/solve0144](../solve/solve0144)|
 | 160 | 160 | 简单 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [solve/solve0160](../solve/solve0160)|

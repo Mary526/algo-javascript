@@ -3,11 +3,12 @@
 <!--- table -->
 
 
-总计: 8
+总计: 9
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
 | 91 | 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
+| 118 | 118 | 简单 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [solve/solve0118](../solve/solve0118)|
 | 392 | 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
 | 397 | 397 | 中等 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [solve/solve0397](../solve/solve0397)|
 | 583 | 583 | 中等 | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [solve/solve0583](../solve/solve0583)|
