@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 177
+总计: 178
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -150,6 +150,7 @@
 | 973 | 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 977 | 1019 | 简单 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [solve/solve1019](../solve/solve1019)|
 | 1002 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
+| 1027 | 1087 | 中等 | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/) | [solve/solve1087](../solve/solve1087)|
 | 1160 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
 | 1047 | 1128 | 简单 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [solve/solve1128](../solve/solve1128)|
 | 1078 | 1156 | 简单 | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/) | [solve/solve1156](../solve/solve1156)|

@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 10
+总计: 11
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -16,4 +16,5 @@
 | 475 | 475 | 中等 | [供暖器](https://leetcode-cn.com/problems/heaters/) | [solve/solve0475](../solve/solve0475)|
 | 704 | 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
 | 911 | 947 | 中等 | [在线选举](https://leetcode-cn.com/problems/online-election/) | [solve/solve0947](../solve/solve0947)|
+| 1027 | 1087 | 中等 | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/) | [solve/solve1087](../solve/solve1087)|
 | 1894 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|

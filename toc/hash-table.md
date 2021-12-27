@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 40
+总计: 41
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -41,6 +41,7 @@
 | 914 | 950 | 简单 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [solve/solve0950](../solve/solve0950)|
 | 929 | 965 | 简单 | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | [solve/solve0965](../solve/solve0965)|
 | 1002 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
+| 1027 | 1087 | 中等 | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/) | [solve/solve1087](../solve/solve1087)|
 | 1160 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
 | 1935 | 1264 | 简单 | [可以输入的最大单词数](https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type/) | [solve/solve1264](../solve/solve1264)|
 | 1189 | 1297 | 简单 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [solve/solve1297](../solve/solve1297)|

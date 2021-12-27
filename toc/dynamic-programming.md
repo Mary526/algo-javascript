@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 9
+总计: 10
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -15,4 +15,5 @@
 | 600 | 600 | 困难 | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | [solve/solve0600](../solve/solve0600)|
 | 639 | 639 | 困难 | [解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii/) | [solve/solve0639](../solve/solve0639)|
 | 799 | 815 | 中等 | [香槟塔](https://leetcode-cn.com/problems/champagne-tower/) | [solve/solve0815](../solve/solve0815)|
+| 1027 | 1087 | 中等 | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/) | [solve/solve1087](../solve/solve1087)|
 | 1143 | 1250 | 中等 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [solve/solve1250](../solve/solve1250)|
