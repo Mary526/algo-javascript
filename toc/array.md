@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 61
+总计: 62
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -18,6 +18,7 @@
 | 47 | 中等 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [solve/solve0047](../solve/solve0047)|
 | 48 | 中等 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [solve/solve0048](../solve/solve0048)|
 | 51 | 困难 | [N 皇后](https://leetcode-cn.com/problems/n-queens/) | [solve/solve0051](../solve/solve0051)|
+| 64 | 中等 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [solve/solve0064](../solve/solve0064)|
 | 66 | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/) | [solve/solve0066](../solve/solve0066)|
 | 79 | 中等 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [solve/solve0079](../solve/solve0079)|
 | 88 | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [solve/solve0088](../solve/solve0088)|

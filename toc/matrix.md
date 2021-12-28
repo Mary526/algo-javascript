@@ -3,12 +3,13 @@
 <!--- table -->
 
 
-总计: 8
+总计: 9
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
 | 36 | 中等 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [solve/solve0036](../solve/solve0036)|
 | 48 | 中等 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [solve/solve0048](../solve/solve0048)|
+| 64 | 中等 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [solve/solve0064](../solve/solve0064)|
 | 79 | 中等 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [solve/solve0079](../solve/solve0079)|
 | 200 | 中等 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [solve/solve0200](../solve/solve0200)|
 | 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|

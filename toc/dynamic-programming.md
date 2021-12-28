@@ -3,10 +3,11 @@
 <!--- table -->
 
 
-总计: 8
+总计: 9
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
+| 64 | 中等 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [solve/solve0064](../solve/solve0064)|
 | 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
 | 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
 | 397 | 中等 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [solve/solve0397](../solve/solve0397)|
