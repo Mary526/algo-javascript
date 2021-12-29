@@ -32,4 +32,32 @@ let counts = 0
         }
     }
     return counts
+
+	// 2021/12/29
+	// nums.sort((a,b) => a - b)
+    let counts = 0
+
+// console.log("nums:", nums)
+    const dfs = (idx , depth , summary, ans) => {
+        
+        if(depth === 4 && nums[idx] === summary - nums[idx]) {
+            // console.log("idx", idx, ",depth:", depth,",nums[idx],",nums[idx], summary - nums[idx],",ans:",ans)
+            counts++
+            return
+        }
+        if(depth === 4) return
+        if(idx === nums.length) return
+        for(let j = idx + 1 ; j < nums.length ; j++) {
+            let temp = ans.slice()
+            temp.push(nums[j])
+            dfs(j,depth+1,summary+nums[j],temp)
+        }
+    }
+
+    for(let i = 0 ; i < nums.length; i++) {
+        // console.log('===i', i)
+        dfs(i,1,nums[i],[])
+    }
+    return  counts 
+
 };
