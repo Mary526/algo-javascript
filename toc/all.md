@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 183
+总计: 184
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -78,6 +78,7 @@
 | 384 | 中等 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | [solve/solve0384](../solve/solve0384)|
 | 387 | 简单 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [solve/solve0387](../solve/solve0387)|
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
+| 390 | 中等 | [消除游戏](https://leetcode-cn.com/problems/elimination-game/) | [solve/solve0390](../solve/solve0390)|
 | 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
 | 397 | 中等 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [solve/solve0397](../solve/solve0397)|
 | 404 | 简单 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [solve/solve0404](../solve/solve0404)|

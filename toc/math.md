@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 26
+总计: 27
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -21,6 +21,7 @@
 | 367 | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [solve/solve0367](../solve/solve0367)|
 | 380 | 中等 | [O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) | [solve/solve0380](../solve/solve0380)|
 | 384 | 中等 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | [solve/solve0384](../solve/solve0384)|
+| 390 | 中等 | [消除游戏](https://leetcode-cn.com/problems/elimination-game/) | [solve/solve0390](../solve/solve0390)|
 | 412 | 简单 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [solve/solve0412](../solve/solve0412)|
 | 441 | 简单 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | [solve/solve0441](../solve/solve0441)|
 | 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
