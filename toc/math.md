@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 27
+总计: 28
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -33,4 +33,5 @@
 | 979 | 简单 | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | [solve/solve0979](../solve/solve0979)|
 | 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
+| 1289 | 简单 | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/) | [solve/solve1289](../solve/solve1289)|
 | 1642 | 简单 | [换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [solve/solve1642](../solve/solve1642)|
