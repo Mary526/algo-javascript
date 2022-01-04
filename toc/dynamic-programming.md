@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 13
+总计: 14
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -11,6 +11,7 @@
 | 72 | 困难 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [solve/solve0072](../solve/solve0072)|
 | 91 | 中等 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | [solve/solve0091](../solve/solve0091)|
 | 118 | 简单 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [solve/solve0118](../solve/solve0118)|
+| 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [solve/solve0300](../solve/solve0300)|
 | 392 | 简单 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | [solve/solve0392](../solve/solve0392)|
 | 397 | 中等 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [solve/solve0397](../solve/solve0397)|
 | 416 | 中等 | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [solve/solve0416](../solve/solve0416)|

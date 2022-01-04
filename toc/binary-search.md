@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 11
+总计: 12
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -11,6 +11,7 @@
 | 162 | 中等 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | [solve/solve0162](../solve/solve0162)|
 | 167 | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [solve/solve0167](../solve/solve0167)|
 | 278 | 简单 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | [solve/solve0278](../solve/solve0278)|
+| 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [solve/solve0300](../solve/solve0300)|
 | 367 | 简单 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [solve/solve0367](../solve/solve0367)|
 | 441 | 简单 | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | [solve/solve0441](../solve/solve0441)|
 | 475 | 中等 | [供暖器](https://leetcode-cn.com/problems/heaters/) | [solve/solve0475](../solve/solve0475)|
