@@ -13,6 +13,7 @@
  * @param {number} k
  * @return {string}
  * @date 2021/7/23
+ * @date 2022/1/4
  */
 var reverseStr = function(s, k) {
 const sList = s.split("")
@@ -56,4 +57,22 @@ const sList = s.split("")
 
         // console.log("list:", list)
         return list.join("")
+};
+
+var reverseStr = function(s, k) {
+    if(s.length === 1) return s
+    let ans = new Array(s.length) , i = 0 , sArray = s.split("")
+    while(i < s.length) {
+        if(s.length - i > k) {
+            const res = sArray.slice(i, i + k).reverse()  
+            const res1 = sArray.slice(i + k, i + 2*k)
+            ans = [...ans, ...res,...res1]
+            i += k*2
+        } else if (s.length - i > 0 && s.length - i <= k) {
+            const res = sArray.slice(i).reverse()
+            ans = ans.concat(res)
+            i = sArray.length
+        }
+    }
+    return ans.join("")
 };
