@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 187
+总计: 188
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ---- | ------------------ | ---------------- |
@@ -16,6 +16,7 @@
 | 19 | 19 | 中等 | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [solve/solve0019](../solve/solve0019)|
 | 20 | 20 | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [solve/solve0020](../solve/solve0020)|
 | 21 | 21 | 简单 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [solve/solve0021](../solve/solve0021)|
+| 23 | 23 | 困难 | [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [solve/solve0023](../solve/solve0023)|
 | 26 | 26 | 简单 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [solve/solve0026](../solve/solve0026)|
 | 27 | 27 | 简单 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [solve/solve0027](../solve/solve0027)|
 | 28 | 28 | 简单 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [solve/solve0028](../solve/solve0028)|
