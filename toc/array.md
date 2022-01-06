@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 67
+总计: 68
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -40,6 +40,7 @@
 | 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|
 | 453 | 简单 | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [solve/solve0453](../solve/solve0453)|
 | 475 | 中等 | [供暖器](https://leetcode-cn.com/problems/heaters/) | [solve/solve0475](../solve/solve0475)|
+| 491 | 中等 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | [solve/solve0491](../solve/solve0491)|
 | 495 | 简单 | [提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/) | [solve/solve0495](../solve/solve0495)|
 | 500 | 简单 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/) | [solve/solve0500](../solve/solve0500)|
 | 502 | 困难 | [IPO](https://leetcode-cn.com/problems/ipo/) | [solve/solve0502](../solve/solve0502)|

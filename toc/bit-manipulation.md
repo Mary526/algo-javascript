@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 8
+总计: 9
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -14,4 +14,5 @@
 | 389 | 简单 | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [solve/solve0389](../solve/solve0389)|
 | 397 | 中等 | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [solve/solve0397](../solve/solve0397)|
 | 476 | 简单 | [数字的补数](https://leetcode-cn.com/problems/number-complement/) | [solve/solve0476](../solve/solve0476)|
+| 491 | 中等 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | [solve/solve0491](../solve/solve0491)|
 | 800 | 中等 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [solve/solve0800](../solve/solve0800)|

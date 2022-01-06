@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 7
+总计: 8
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -13,4 +13,5 @@
 | 51 | 困难 | [N 皇后](https://leetcode-cn.com/problems/n-queens/) | [solve/solve0051](../solve/solve0051)|
 | 79 | 中等 | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [solve/solve0079](../solve/solve0079)|
 | 93 | 中等 | [复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [solve/solve0093](../solve/solve0093)|
+| 491 | 中等 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | [solve/solve0491](../solve/solve0491)|
 | 800 | 中等 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [solve/solve0800](../solve/solve0800)|
