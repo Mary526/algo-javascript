@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 190
+总计: 191
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -189,6 +189,7 @@
 | 1714 | 简单 | [重新排列单词间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/) | [solve/solve1714](../solve/solve1714)|
 | 1720 | 简单 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [solve/solve1720](../solve/solve1720)|
 | 1731 | 中等 | [奇偶树](https://leetcode-cn.com/problems/even-odd-tree/) | [solve/solve1731](../solve/solve1731)|
+| 1751 | 简单 | [按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/) | [solve/solve1751](../solve/solve1751)|
 | 1781 | 简单 | [检查两个字符串数组是否相等](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [solve/solve1781](../solve/solve1781)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
 | 2122 | 简单 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | [solve/solve2122](../solve/solve2122)|

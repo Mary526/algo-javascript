@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 68
+总计: 69
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -72,6 +72,7 @@
 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
 | 1651 | 简单 | [重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/) | [solve/solve1651](../solve/solve1651)|
 | 1720 | 简单 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [solve/solve1720](../solve/solve1720)|
+| 1751 | 简单 | [按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/) | [solve/solve1751](../solve/solve1751)|
 | 1781 | 简单 | [检查两个字符串数组是否相等](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [solve/solve1781](../solve/solve1781)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
 | 2132 | 简单 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [solve/solve2132](../solve/solve2132)|
