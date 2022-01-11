@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 95
+总计: 96
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -67,6 +67,7 @@
 | 841 | 简单 | [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [solve/solve0841](../solve/solve0841)|
 | 851 | 简单 | [山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/) | [solve/solve0851](../solve/solve0851)|
 | 857 | 简单 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [solve/solve0857](../solve/solve0857)|
+| 872 | 中等 | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [solve/solve0872](../solve/solve0872)|
 | 874 | 简单 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [solve/solve0874](../solve/solve0874)|
 | 889 | 简单 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/) | [solve/solve0889](../solve/solve0889)|
 | 920 | 简单 | [两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/) | [solve/solve0920](../solve/solve0920)|

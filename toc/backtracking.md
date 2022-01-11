@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 8
+总计: 9
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -15,3 +15,4 @@
 | 93 | 中等 | [复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [solve/solve0093](../solve/solve0093)|
 | 491 | 中等 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | [solve/solve0491](../solve/solve0491)|
 | 800 | 中等 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [solve/solve0800](../solve/solve0800)|
+| 872 | 中等 | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [solve/solve0872](../solve/solve0872)|
