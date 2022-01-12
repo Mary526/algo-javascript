@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 70
+总计: 71
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -52,6 +52,7 @@
 | 598 | 简单 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | [solve/solve0598](../solve/solve0598)|
 | 599 | 简单 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [solve/solve0599](../solve/solve0599)|
 | 695 | 中等 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [solve/solve0695](../solve/solve0695)|
+| 748 | 简单 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | [solve/solve0748](../solve/solve0748)|
 | 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
 | 822 | 简单 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | [solve/solve0822](../solve/solve0822)|
 | 824 | 简单 | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [solve/solve0824](../solve/solve0824)|

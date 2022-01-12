@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 16
+总计: 17
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -18,6 +18,7 @@
 | 506 | 简单 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/) | [solve/solve0506](../solve/solve0506)|
 | 524 | 中等 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | [solve/solve0524](../solve/solve0524)|
 | 594 | 简单 | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [solve/solve0594](../solve/solve0594)|
+| 748 | 简单 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | [solve/solve0748](../solve/solve0748)|
 | 900 | 中等 | [重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2/) | [solve/solve0900](../solve/solve0900)|
 | 974 | 简单 | [重新排列日志文件](https://leetcode-cn.com/problems/reorder-data-in-log-files/) | [solve/solve0974](../solve/solve0974)|
 | 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
