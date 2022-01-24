@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 5
+总计: 6
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -12,3 +12,4 @@
 | 506 | 简单 | [相对名次](https://leetcode-cn.com/problems/relative-ranks/) | [solve/solve0506](../solve/solve0506)|
 | 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
+| 2161 | 中等 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [solve/solve2161](../solve/solve2161)|

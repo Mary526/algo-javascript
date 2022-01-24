@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 43
+总计: 44
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -50,3 +50,4 @@
 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
 | 1547 | 简单 | [旅行终点站](https://leetcode-cn.com/problems/destination-city/) | [solve/solve1547](../solve/solve1547)|
 | 1619 | 简单 | [判断路径是否相交](https://leetcode-cn.com/problems/path-crossing/) | [solve/solve1619](../solve/solve1619)|
+| 2161 | 中等 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [solve/solve2161](../solve/solve2161)|

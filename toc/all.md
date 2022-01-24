@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 195
+总计: 196
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -202,3 +202,4 @@
 | 2132 | 简单 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [solve/solve2132](../solve/solve2132)|
 | 2138 | 中等 | [数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array/) | [solve/solve2138](../solve/solve2138)|
 | 2144 | 简单 | [增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/) | [solve/solve2144](../solve/solve2144)|
+| 2161 | 中等 | [股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [solve/solve2161](../solve/solve2161)|
