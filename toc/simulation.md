@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 8
+总计: 9
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -13,5 +13,6 @@
 | 657 | 简单 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | [solve/solve0657](../solve/solve0657)|
 | 874 | 简单 | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [solve/solve0874](../solve/solve0874)|
 | 1642 | 简单 | [换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [solve/solve1642](../solve/solve1642)|
+| 1806 | 简单 | [比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [solve/solve1806](../solve/solve1806)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
 | 2132 | 简单 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [solve/solve2132](../solve/solve2132)|

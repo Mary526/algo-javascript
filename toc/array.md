@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 72
+总计: 73
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -71,6 +71,7 @@
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
 | 1087 | 中等 | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/) | [solve/solve1087](../solve/solve1087)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
+| 1331 | 中等 | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [solve/solve1331](../solve/solve1331)|
 | 1380 | 中等 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/) | [solve/solve1380](../solve/solve1380)|
 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
 | 1651 | 简单 | [重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/) | [solve/solve1651](../solve/solve1651)|

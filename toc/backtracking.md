@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 9
+总计: 10
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -16,3 +16,4 @@
 | 491 | 中等 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/) | [solve/solve0491](../solve/solve0491)|
 | 800 | 中等 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [solve/solve0800](../solve/solve0800)|
 | 872 | 中等 | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [solve/solve0872](../solve/solve0872)|
+| 1331 | 中等 | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [solve/solve1331](../solve/solve1331)|

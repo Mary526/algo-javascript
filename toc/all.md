@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 196
+总计: 198
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -176,6 +176,7 @@
 | 1289 | 简单 | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/) | [solve/solve1289](../solve/solve1289)|
 | 1297 | 简单 | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [solve/solve1297](../solve/solve1297)|
 | 1302 | 简单 | [删除字符使字符串变好](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string/) | [solve/solve1302](../solve/solve1302)|
+| 1331 | 中等 | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [solve/solve1331](../solve/solve1331)|
 | 1341 | 简单 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [solve/solve1341](../solve/solve1341)|
 | 1380 | 中等 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/) | [solve/solve1380](../solve/solve1380)|
 | 1434 | 简单 | [解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [solve/solve1434](../solve/solve1434)|
@@ -195,6 +196,7 @@
 | 1731 | 中等 | [奇偶树](https://leetcode-cn.com/problems/even-odd-tree/) | [solve/solve1731](../solve/solve1731)|
 | 1751 | 简单 | [按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/) | [solve/solve1751](../solve/solve1751)|
 | 1781 | 简单 | [检查两个字符串数组是否相等](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [solve/solve1781](../solve/solve1781)|
+| 1806 | 简单 | [比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [solve/solve1806](../solve/solve1806)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
 | 2122 | 简单 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | [solve/solve2122](../solve/solve2122)|
 | 2128 | 简单 | [反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [solve/solve2128](../solve/solve2128)|
