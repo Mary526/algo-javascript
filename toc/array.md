@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 75
+总计: 76
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -80,5 +80,6 @@
 | 1781 | 简单 | [检查两个字符串数组是否相等](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [solve/solve1781](../solve/solve1781)|
 | 1848 | 简单 | [唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/) | [solve/solve1848](../solve/solve1848)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
+| 2112 | 简单 | [学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [solve/solve2112](../solve/solve2112)|
 | 2116 | 简单 | [差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [solve/solve2116](../solve/solve2116)|
 | 2132 | 简单 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [solve/solve2132](../solve/solve2132)|

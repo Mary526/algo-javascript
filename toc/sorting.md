@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 17
+总计: 18
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -24,3 +24,4 @@
 | 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 1019 | 简单 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [solve/solve1019](../solve/solve1019)|
 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
+| 2112 | 简单 | [学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [solve/solve2112](../solve/solve2112)|

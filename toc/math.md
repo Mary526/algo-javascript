@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 29
+总计: 30
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -34,5 +34,6 @@
 | 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 1274 | 简单 | [日期之间隔几天](https://leetcode-cn.com/problems/number-of-days-between-two-dates/) | [solve/solve1274](../solve/solve1274)|
 | 1289 | 简单 | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/) | [solve/solve1289](../solve/solve1289)|
+| 1543 | 中等 | [最简分数](https://leetcode-cn.com/problems/simplified-fractions/) | [solve/solve1543](../solve/solve1543)|
 | 1642 | 简单 | [换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [solve/solve1642](../solve/solve1642)|
 | 1806 | 简单 | [比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [solve/solve1806](../solve/solve1806)|

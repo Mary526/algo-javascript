@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 200
+总计: 202
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -183,6 +183,7 @@
 | 1454 | 简单 | [删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [solve/solve1454](../solve/solve1454)|
 | 1464 | 中等 | [数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [solve/solve1464](../solve/solve1464)|
 | 1490 | 简单 | [生成每种字符都是奇数个的字符串](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [solve/solve1490](../solve/solve1490)|
+| 1543 | 中等 | [最简分数](https://leetcode-cn.com/problems/simplified-fractions/) | [solve/solve1543](../solve/solve1543)|
 | 1547 | 简单 | [旅行终点站](https://leetcode-cn.com/problems/destination-city/) | [solve/solve1547](../solve/solve1547)|
 | 1566 | 简单 | [检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [solve/solve1566](../solve/solve1566)|
 | 1619 | 简单 | [判断路径是否相交](https://leetcode-cn.com/problems/path-crossing/) | [solve/solve1619](../solve/solve1619)|
@@ -199,6 +200,7 @@
 | 1806 | 简单 | [比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [solve/solve1806](../solve/solve1806)|
 | 1848 | 简单 | [唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/) | [solve/solve1848](../solve/solve1848)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
+| 2112 | 简单 | [学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [solve/solve2112](../solve/solve2112)|
 | 2116 | 简单 | [差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [solve/solve2116](../solve/solve2116)|
 | 2122 | 简单 | [统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets/) | [solve/solve2122](../solve/solve2122)|
 | 2128 | 简单 | [反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [solve/solve2128](../solve/solve2128)|
