@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 11
+总计: 12
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -15,6 +15,7 @@
 | 419 | 中等 | [甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/) | [solve/solve0419](../solve/solve0419)|
 | 695 | 中等 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [solve/solve0695](../solve/solve0695)|
 | 825 | 中等 | [保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [solve/solve0825](../solve/solve0825)|
+| 1073 | 中等 | [飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/) | [solve/solve1073](../solve/solve1073)|
 | 1331 | 中等 | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [solve/solve1331](../solve/solve1331)|
 | 1380 | 中等 | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/) | [solve/solve1380](../solve/solve1380)|
 | 2132 | 简单 | [将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [solve/solve2132](../solve/solve2132)|

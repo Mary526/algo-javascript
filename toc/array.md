@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 76
+总计: 77
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -69,6 +69,7 @@
 | 1014 | 中等 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [solve/solve1014](../solve/solve1014)|
 | 1019 | 简单 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [solve/solve1019](../solve/solve1019)|
 | 1044 | 简单 | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) | [solve/solve1044](../solve/solve1044)|
+| 1073 | 中等 | [飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/) | [solve/solve1073](../solve/solve1073)|
 | 1087 | 中等 | [最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/) | [solve/solve1087](../solve/solve1087)|
 | 1112 | 简单 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [solve/solve1112](../solve/solve1112)|
 | 1331 | 中等 | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [solve/solve1331](../solve/solve1331)|
