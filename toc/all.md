@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 203
+总计: 204
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -200,6 +200,7 @@
 | 1781 | 简单 | [检查两个字符串数组是否相等](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [solve/solve1781](../solve/solve1781)|
 | 1806 | 简单 | [比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [solve/solve1806](../solve/solve1806)|
 | 1848 | 简单 | [唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/) | [solve/solve1848](../solve/solve1848)|
+| 1916 | 简单 | [找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [solve/solve1916](../solve/solve1916)|
 | 2006 | 中等 | [找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/) | [solve/solve2006](../solve/solve2006)|
 | 2112 | 简单 | [学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [solve/solve2112](../solve/solve2112)|
 | 2116 | 简单 | [差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [solve/solve2116](../solve/solve2116)|
