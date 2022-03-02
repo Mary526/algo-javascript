@@ -3,12 +3,13 @@
 <!--- table -->
 
 
-总计: 204
+总计: 207
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [solve/solve0001](../solve/solve0001)|
 | 3 | 中等 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [solve/solve0003](../solve/solve0003)|
+| 6 | 中等 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [solve/solve0006](../solve/solve0006)|
 | 7 | 简单 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [solve/solve0007](../solve/solve0007)|
 | 9 | 简单 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [solve/solve0009](../solve/solve0009)|
 | 13 | 简单 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [solve/solve0013](../solve/solve0013)|
@@ -128,6 +129,7 @@
 | 680 | 简单 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [solve/solve0680](../solve/solve0680)|
 | 686 | 中等 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/) | [solve/solve0686](../solve/solve0686)|
 | 695 | 中等 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [solve/solve0695](../solve/solve0695)|
+| 717 | 简单 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/) | [solve/solve0717](../solve/solve0717)|
 | 742 | 简单 | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) | [solve/solve0742](../solve/solve0742)|
 | 748 | 简单 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | [solve/solve0748](../solve/solve0748)|
 | 749 | 简单 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | [solve/solve0749](../solve/solve0749)|
@@ -195,6 +197,7 @@
 | 1698 | 简单 | [替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [solve/solve1698](../solve/solve1698)|
 | 1714 | 简单 | [重新排列单词间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/) | [solve/solve1714](../solve/solve1714)|
 | 1720 | 简单 | [文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder/) | [solve/solve1720](../solve/solve1720)|
+| 1723 | 困难 | [最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/) | [solve/solve1723](../solve/solve1723)|
 | 1731 | 中等 | [奇偶树](https://leetcode-cn.com/problems/even-odd-tree/) | [solve/solve1731](../solve/solve1731)|
 | 1751 | 简单 | [按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/) | [solve/solve1751](../solve/solve1751)|
 | 1781 | 简单 | [检查两个字符串数组是否相等](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent/) | [solve/solve1781](../solve/solve1781)|

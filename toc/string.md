@@ -3,11 +3,12 @@
 <!--- table -->
 
 
-总计: 97
+总计: 98
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
 | 3 | 中等 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [solve/solve0003](../solve/solve0003)|
+| 6 | 中等 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [solve/solve0006](../solve/solve0006)|
 | 13 | 简单 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [solve/solve0013](../solve/solve0013)|
 | 14 | 简单 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [solve/solve0014](../solve/solve0014)|
 | 20 | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [solve/solve0020](../solve/solve0020)|
