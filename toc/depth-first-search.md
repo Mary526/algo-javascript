@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 21
+总计: 22
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -24,6 +24,7 @@
 | 617 | 简单 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [solve/solve0617](../solve/solve0617)|
 | 695 | 中等 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [solve/solve0695](../solve/solve0695)|
 | 774 | 简单 | [N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [solve/solve0774](../solve/solve0774)|
+| 775 | 简单 | [N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [solve/solve0775](../solve/solve0775)|
 | 801 | 中等 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | [solve/solve0801](../solve/solve0801)|
 | 893 | 中等 | [二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | [solve/solve0893](../solve/solve0893)|
 | 1073 | 中等 | [飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/) | [solve/solve1073](../solve/solve1073)|

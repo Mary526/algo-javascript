@@ -3,7 +3,7 @@
 <!--- table -->
 
 
-总计: 208
+总计: 209
 
 | 序号 | 难度 | 题目                    | 解答                      |
 | ---- | ---- | ------------------ | ---------------- |
@@ -135,6 +135,7 @@
 | 748 | 简单 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | [solve/solve0748](../solve/solve0748)|
 | 749 | 简单 | [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/) | [solve/solve0749](../solve/solve0749)|
 | 774 | 简单 | [N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [solve/solve0774](../solve/solve0774)|
+| 775 | 简单 | [N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [solve/solve0775](../solve/solve0775)|
 | 782 | 简单 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) | [solve/solve0782](../solve/solve0782)|
 | 792 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search/) | [solve/solve0792](../solve/solve0792)|
 | 800 | 中等 | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [solve/solve0800](../solve/solve0800)|
